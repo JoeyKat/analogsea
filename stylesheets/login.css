@@ -1,0 +1,90 @@
+body {
+  width: 70%;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: Calibri,Arial,sans-serif;
+}
+
+img.analogsea-logo {
+	height: 35px;
+	display: block;
+	margin: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+h1 {
+	font-size: 20px;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.login-form fieldset {
+  padding-left: 0;
+  border: none;
+}
+
+.login-form label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.login-form input, .login-form select {
+  display: block;
+  width: 200px;
+  margin-bottom: 15px;
+}
+
+.login-form input[type="radio"] {
+  width: auto;
+}
+
+.login-form input {
+  padding: 3px;
+}
+
+.login-form input::placeholder {
+  color: gray;
+  margin-bottom: 10px;
+}
+
+.login-form input::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+  color: gray;
+}
+
+.login-form input::-moz-placeholder { /* Firefox 19+ */
+  color: gray;
+}
+
+.login-form input:-ms-input-placeholder { /* IE 10+ */
+  color: gray;
+}
+
+.login-form input:-moz-placeholder { /* Firefox 18- */
+  color: gray;
+}
+
+.login-form select {
+  cursor: pointer;
+}
+
+.login-form input:invalid {
+  border: 0.5px purple solid;
+}
+
+.radio-group label, .radio-group input{
+  display: inline-block;
+}
+
+.login-form button {
+  width: 100px;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 8px;
+}
+
+.forgot-password {
+	font-size: 15px;
+	margin: 0 auto;
+}

@@ -1,0 +1,35 @@
+body {
+  width: 70%;
+  margin: 0 auto;
+  padding: 10px;
+  font-family: Calibri,Arial,sans-serif;
+}
+
+img.analogsea-logo {
+	height: 35px;
+	display: block;
+	margin: auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+h1 {
+	font-size: 15px;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+td {
+  width: 100px;
+  padding: 15px;
+  text-align:right;
+  border: 1px solid black;
+}
+
+td.project {
+  width: 300px;
+  padding: 15px;
+  text-align:right;
+  border: 1px solid black;
+}
