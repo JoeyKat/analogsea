@@ -13,3 +13,7 @@ The Scenario: AnalogSea Signup Form
 welcome.html is where you want to start:
 
 https://github.com/JoeyKat/analogsea/blob/master/welcome.html
+
+The live version can be found here:
+
+fabricelectronica.net/CodePractice/analogsea/signup.html
