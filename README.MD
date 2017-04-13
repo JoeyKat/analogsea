@@ -9,3 +9,7 @@ The Scenario: AnalogSea Signup Form
 - The client wants clean, SEO and accessibility friendly HTML.
 
 - Deliver a live version of the page they can preview on GitHub pages.
+
+welcome.html is where you want to start:
+
+https://github.com/JoeyKat/analogsea/blob/master/welcome.html
